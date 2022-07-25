@@ -35,3 +35,6 @@
 *.pdb
 *.ilk
 .vscode/*
+*.code-workspace
+
+TODO
